@@ -1,6 +1,6 @@
 # Advanced Backend API
 
-### Day 1: Features 👇
+### Features 👇
 
 1. Typescript config and Database Connection.
 2. MVC Type folder structure: Models, Controllers, Services, Utility, Middleware and Routes.
@@ -49,3 +49,9 @@
 
 7. Admin GET & POST endpoints ✅
 8. Vendor Login endpoint ✅
+9. Shopping Route added.
+10. Search Restaurants through various parameters like Pincode, Time etc
+11. Added various parameters.
+12. Migrated the index.ts expressApp to services/expressApp for clean code and file structure.
+13. Added the food model and DTO for the same.
+14. Added feature of adding images but didnt work (maybe an issue in Postman Config).
